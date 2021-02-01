@@ -1,16 +1,15 @@
 //
 //  ContentView.swift
-//  PazuruAPP4SwiftUI
+//  Shared
 //
-//  Created by 井関竜太郎 on 2021/01/26.
+//  Created by Balaji on 17/01/21.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        Home()
     }
 }
 
